@@ -21,7 +21,7 @@ Utilizando Python e bibliotecas de ciência de dados, o estudo visa fornecer ins
 - Recomendações baseadas nos dados para estratégias de retenção de clientes.
 
 # 📁 Estrutura do Projeto
-
+```markdown
 ├── Análise.ipynb # Notebook com a análise exploratória
 ├── cancelamentos_sample.csv # Conjunto de dados utilizado
 └── README.md # Documentação do projeto
